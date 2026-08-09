@@ -5,7 +5,7 @@ cask "hover" do
 
   url "https://github.com/flyngaa/hover/releases/download/v#{version}/Hover.dmg"
   name "Hover"
-  desc "Capture system and microphone audio as saved text transcripts"
+  desc "Transcribe anything locally, your data never leaves your machine."
   homepage "https://github.com/flyngaa/hover"
 
   depends_on :macos
