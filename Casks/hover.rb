@@ -1,7 +1,7 @@
 cask "hover" do
   # The tag-release workflow replaces these placeholders with the published version and checksum.
-  version "1.0.0"
-  sha256 "e94509190d55b133c140e4e5b7777ac495eb2df5874c88af5d6e20aa4615cd88"
+  version "1.1.0"
+  sha256 "a919c0303623258c178247c616fb01366171840a0c6b428d900db0e6b28bd85c"
 
   url "https://github.com/flyngaa/hover/releases/download/v#{version}/Hover.dmg"
   name "Hover"
